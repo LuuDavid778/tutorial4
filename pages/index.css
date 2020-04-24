@@ -1,0 +1,25 @@
+#mainapp {
+    position: relative;
+    left: 0;
+    opacity:1;
+    top:0px;
+    transition: all 1s;
+
+}
+
+body, html {
+    overflow-x: hidden;
+}
+.button_cont {
+    display: flex;
+    margin-top: 10pt;
+}
+
+#div {
+   margin-right: 5pt;
+}
+
+#chat_button:hover {
+    background:#53a7ea;
+}
+

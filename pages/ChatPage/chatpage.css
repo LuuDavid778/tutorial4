@@ -1,0 +1,22 @@
+#Welcome {
+    opacity: 0%;
+    display: flex;
+}
+
+#chats {
+    opacity: 0%;
+}
+
+#controls {
+    opacity: 0%;
+}
+
+
+#custom_button {
+    opacity: 0%;
+}
+
+#Welcome, #chats , #controls, #custom_button {
+    transition: opacity 1.5s;
+}
+

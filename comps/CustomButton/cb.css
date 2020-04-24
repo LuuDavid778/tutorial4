@@ -1,0 +1,22 @@
+.cb1{
+    width: 100px;
+    height: 40px;
+    display: inline-flex;
+    padding:5px;
+    color: white;;
+    text-decoration:none;
+    border-radius: 10px;
+
+}
+.cb_container {
+    margin: 5px;
+}
+
+.cb1:active {
+    background-color: white;
+    color: black;
+}
+
+.buttondiv {
+    display: flex;
+}
