@@ -1,3 +1,5 @@
+import React from 'react';
+import  {useState, useEffect} from 'react'
 import Link from 'next/link'
 import Router from 'next/router';
 import './index.css'
